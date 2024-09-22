@@ -1,12 +1,18 @@
 # model-arch
 
-### implementation list
+## implementation list
+### for Accuracy
 - [ ] ResNet - residual block  
 - [ ] SENet  
 - [ ] SqueezeNet  
-- [ ] MobileNet  
-- [ ] MobileNetV2  
 - [ ] DenseNet  
 - [ ] ConvNeXt  
-- [ ] Transformer  
-- [ ] ViT  
+  
+### for Efficiency
+- [ ] MobileNet  
+- [ ] MobileNetV2  
+
+### Various arch
+- [ ] UNet - Encoder-Decoder
+- [ ] Transformer
+- [ ] ViT
