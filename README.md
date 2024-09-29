@@ -13,6 +13,6 @@
 - [ ] MobileNetV2  
 
 ### Various arch
-- [ ] UNet - Encoder-Decoder
+- [x] UNet - Encoder-Decoder
 - [ ] Transformer
 - [ ] ViT
